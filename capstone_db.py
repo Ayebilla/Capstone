@@ -35,24 +35,9 @@ def remove_emp(dist):
         
         
 #Test input points
-insert_point(80, 10.887478, -0.475862)
-insert_point(80, 10.887498,-0.475870)
-insert_point(80, 10.887520, -0.475875)
-insert_point(80, 10.887533, -0.475885)
-insert_point(80, 10.887547, -0.475893)
-insert_point(80, 10.887562, -0.475900)
-insert_point(80, 10.887562, -0.475900)
-insert_point(80, 10.887593, -0.475925)
-insert_point(80, 10.887618, -0.475940)
-insert_point(80, 10.887637, -0.475950)
-insert_point(80, 10.887653, -0.475960)
-insert_point(80, 10.887667, -0.475962)
-insert_point(80, 10.887685, -0.475967)
-insert_point(80, 10.887710, -0.475988)
-insert_point(80, 10.887728, -0.476008)
-insert_point(80, 10.887743, -0.476015)
-insert_point(80, 10.887768, -0.476025)
-insert_point(80, 10.887787, -0.476032)
+insert_point(80, 523525.887478, 6467.475862) #coordinates changed for security reasons. Put your own coordinates
+
+
 
 
 road = get_emps_by_name(Adjacency_map_capstone.pathID)
